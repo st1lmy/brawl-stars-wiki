@@ -48,11 +48,20 @@
 }
 
 body {
-    background-image: url(WhatsApp\ Image\ 2025-02-06\ at\ 17.57.22\ \(1\).jpeg);
-    background-repeat: no-repeat;
-    background-size:;
-    background-position: center;
-    color: #f7f7f2;
-    
-    
+    background-color: skyblue; 
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.main {
+    padding-left: 625px;
+}
+
+.sup {
+    padding-left: 1700px;
+    padding-top: 60px;
 }
